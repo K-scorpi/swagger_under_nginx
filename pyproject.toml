@@ -1,11 +1,10 @@
 [project]
-name = "control"
+name = "app"
 version = "0.1.0"
 description = "FastAPI app to control nginx"
 authors = [
     {name = "mkirill602@gmail.com"}
 ]
-readme = "README.md"
 requires-python = "^3.10"
 dependencies = [
     "fastapi (>=0.116.1,<0.117.0)",
